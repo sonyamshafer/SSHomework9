@@ -1,0 +1,173 @@
+body{
+    background: rgb(229, 233, 226);
+    padding: 0px;
+    margin: 0px;
+}
+
+object{
+    z-index: -1;
+}
+
+img{
+    height: 200px;
+    border: solid 0px black;
+}
+
+#icons{
+    border: solid 0px blue;
+    position: absolute;
+    text-align: center;
+    height: 200px;
+    width: 100%;
+    top: 0px;
+    bottom: 0px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+#topLayer{
+    border: solid 0px green;
+    width: 100vw;
+    height: 50vh;
+    background: rgb(29, 39, 51);
+    position: absolute;
+    z-index: 1;
+}
+
+#bottomLayer{
+    border: solid 0px green;
+    width: 100vw;
+    height: 50vh;
+    background: rgb(29, 39, 51);
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
